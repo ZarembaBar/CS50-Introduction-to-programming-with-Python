@@ -1,6 +1,6 @@
 def main():
     text = input("Happy or sad?")
-    text = convert(text) 
+    text = convert(text)
 
     print(text)
 
